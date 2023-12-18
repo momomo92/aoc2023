@@ -1,0 +1,6 @@
+/vendor/
+
+# Idea
+.idea/
+.project
+*.iml
